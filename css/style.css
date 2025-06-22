@@ -335,6 +335,13 @@ a {
     justify-content: center;
 }
 
+
+.circle-img {
+  width: 170px;          /* Set width */
+  height: 170px;         /* Set height */
+  border-radius: 100%;   /* Makes it a circle */
+}
+
 /* brand */
 .brand-header {
     background-image: url(../img/brand-building.jpg);
